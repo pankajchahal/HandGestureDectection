@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9ee04cf-1307-4c79-a37d-7d3753252e8e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/BackTapDetectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/BackTapDetectionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/EventProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/EventProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/SensorEventProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/SensorEventProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/java/com/example/backtapdetector/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nearby-Comms-Test/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Nearby-Comms-Test/temp.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Nearby-Comms-Test" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F7PVXaYly8yyhZNA0irG8TdOC1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9ee04cf-1307-4c79-a37d-7d3753252e8e" name="Changes" comment="" />
+      <created>1663840172491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663840172491</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
